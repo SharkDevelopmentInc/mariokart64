@@ -1,3 +1,3 @@
 var ROMLIST = [
-    {url:"roms/goldeneye.z64",title:"GoldenEye007"},
+    {url:"roms/mariokart64.z64",title:"MarioKart64"},
 ];
